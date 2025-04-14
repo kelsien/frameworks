@@ -1,0 +1,61 @@
+##Telegram Safety Framework
+
+#Problem: Impersonators, phishing attempts, and social engineering attacks use the popular chat application Telegram to identify and target cryptocurrency users.
+
+#Steps to help you sense check suspicious interactions online:
+
+🚩 Initial Red Flags
+•	Is it too good to be true?
+Scammers often bait victims with promises of large returns or exclusive investment opportunities. If it feels unrealistically generous, it probably is.
+
+•	Are they a contact asking to borrow money?
+If a friend or colleague is messaging you out of the blue asking for funds—especially in crypto—take a pause. Try reaching out to them through another trusted method (like a phone call or direct message on a different platform) to confirm their identity.
+
+•	Are they asking you to deposit money onto a trading platform with the promise of making more?
+This is a classic scam tactic. Legitimate investment opportunities do not involve urgent demands or guarantees of exponential returns.
+
+•	Are they asking for your private keys?
+No legitimate individual or service will ever need your private keys. Sharing them compromises your entire wallet.
+
+•	Are they asking you to click a link or download an attachment?
+If so, it could be a phishing scam. Don’t click it. Avoid interacting with unknown or suspicious links, especially if sent via DM or email.
+
+•	Are they contacting you out of the blue from a company to provide technical or security support?
+Web3 platforms and companies rarely, if ever, reach out unprompted to offer tech help. This is likely a scam attempt.
+
+•	Are they offering you a job interview or venture capital investment, and asking for personal details or to download something?
+Be cautious of unsolicited career or funding offers—especially if they request documents, ID verification, or ask you to install any files or software.
+
+•	Are they an out-of-the-blue romantic interest that has made contact with you?
+Romance scams are rampant online, especially where cryptocurrency is involved. Sudden emotional interest from a stranger is a major red flag.
+
+✅ What to Do Next
+If you suspect someone may be trying to scam you, consider following these steps:
+
+•	Verify Their Identity via Official Channels
+Check their username against trusted sources, including official project websites and verified social profiles. Many projects post impersonation warnings with exact handles to help users spot fakes.
+
+•	Reach Out Through an Alternate Method
+If the person looks like someone you know, contact them through another medium—like phone, video call, or an email address you’ve used previously. Ask them something only they would know to confirm it’s really them.
+
+•	Use the Web3 Security Assistant Bot
+Leverage the SEAL911 and SEAL Intel-powered bot to quickly assess if the Telegram user you’re speaking to has been reported as a scammer.
+
+•	Hide your personal details on the app (i.e. phone number) under ‘settings’, ‘privacy’, to reduce the likelihood that you are impersonated or sim swapped.
+
+•	Remove yourself from any unnecessary groups on Telegram (e.g. cryptocurrency trading groups).
+
+•	Use a strong password and set up multi-factor authentication. 
+
+•	Enable end-to-end encryption for Telegram messages by starting a Secret Chat. To do this, create a new message, tap New Secret Chat and select which contact you want to send an encrypted message to. This ensures your messages are encrypted, can self-destruct and will not be forwarded. Note that this only works for direct messages, not group chats or channels.
+
+•	Ask them for their personal information (i.e. cryptocurrency address or other details) and report it to SEAL911.  
+
+
+Note: Security Alliance has released a new Telegram assistant bot that checks usernames against a threat intelligence database. This resource—powered by SEAL911 and SEAL Intel—provides real-time warnings about known scammers. You can try the bot here: https://t.co/YhPUkFmjgo.
+If you are concerned you have fallen victim to a scam, or wish to report a scammer, contact SEAL911 emergency help line. 
+
+Disclaimer: You are responsible for your actions and assets. Always do your own research. 
+
+
+
